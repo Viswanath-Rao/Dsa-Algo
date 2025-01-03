@@ -1,2 +1,9 @@
-.exe
+
+.vscode/c_cpp_properties.json
+*.json
+*.exe
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.py
+tempCodeRunnerFile.py
+tempCodeRunnerFile.py
 .vscode
